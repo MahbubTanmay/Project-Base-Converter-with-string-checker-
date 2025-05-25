@@ -54,7 +54,7 @@ else if(type == 2){
 
 
 
- number = stoi(newStr, nullptr, 2);
+ number = stoi(newStr, nullptr, 2);  //here we tell program that the number the user gave is a binary
 
 }
 else if(type == 3){
